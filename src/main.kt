@@ -1,5 +1,5 @@
 fun main (){
-    var y = arrayOfInt(arrayOf(20,30,40))
+    var y = arrayOfInt(arrayOf(40,50,60))
     println(y)
     var decimal =sumDecimal(arrayOf(true,"flowers",54,20.55F,55.90F,))
     println(decimal)
